@@ -1,0 +1,20 @@
+#nav{
+
+	background: linear-gradient(270deg, rgba(254,20,20,1) 0%, rgba(232,183,183,1) 100%);
+}
+
+#navbarNav ul li a {
+
+	color: #fff;
+}
+
+#navbarNav ul li a:hover {
+
+	color: #cdcdcd;
+}
+
+#imagem-topo {
+
+	height: 80px;
+
+}
